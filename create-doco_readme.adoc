@@ -1,0 +1,49 @@
+= xxyyzz
+GeekMustHave <Geek.MustHave@PhoenixWorkgroup.com>
+v2.1b, mm/dd/yyyy: Doco Type
+:Author: GeekMustHave
+:Company: GeekMustHave
+:title-page:
+:toc: left
+:toclevels: 4:
+:source-highlighter: coderay
+:coderay-css: class
+:coderay-linenums-mode: inline
+:imagesdir: ./images
+:pagenums:
+:numbered: 
+:chapter-label: 
+:experimental:
+:icons: font
+:docdir: ./documents
+:github: https://github.com/GeekMustHave/Github repository
+:linkattrs:
+:seclinks:
+:pagenums:
+:title-logo-image: ./images/create-doco_gmh-blogArticle-cover.png
+
+Preamble paragraph goes here
+
+== Introduction
+
+
+
+
+
+<<<<
+== Document History
+
+.Document History
+[cols='2,2,2,6' options='header']
+|===
+| Date  | Version | Author | Description
+| mm/dd/yyyy | V2.1b | JHRS |  Initial version
+|===
+
+
+
+
+////
+This template created by GeekMustHave
+////
+
